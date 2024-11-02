@@ -16,11 +16,11 @@ data world 中提供的数据可完成 图3、4
 
 **图片**：
 
-![image-20241102224501997](/Users/eddieho/Library/Application Support/typora-user-images/image-20241102224501997.png)
+![image-20241102224501997](image/pic1.png)
 
 ### 目前完成效果
 
-![image-20241102224610059](/Users/eddieho/Library/Application Support/typora-user-images/image-20241102224610059.png)
+![image-20241102224610059](image/pic1_1.png)
 
 ### 待调整：
 
@@ -37,7 +37,7 @@ data world 中提供的数据可完成 图3、4
 
 **图片**:
 
-![image-20241102224715920](/Users/eddieho/Library/Application Support/typora-user-images/image-20241102224715920.png)
+![image-20241102224715920](image/pic2.png)
 
 ### 目前完成效果： 无
 
@@ -49,7 +49,7 @@ data world 中提供的数据可完成 图3、4
 
 **图片:**
 
-![image-20241102224740972](/Users/eddieho/Library/Application Support/typora-user-images/image-20241102224740972.png)
+![image-20241102224740972](image/pic3.png)
 
 ### 目前完成效果 无
 
@@ -61,7 +61,7 @@ data world 中提供的数据可完成 图3、4
 
 **图片:**
 
-![image-20241102224758579](/Users/eddieho/Library/Application Support/typora-user-images/image-20241102224758579.png)
+![image-20241102224758579](image/pic4.png)
 
 ### 目前完成效果 无
 
@@ -73,4 +73,4 @@ data world 中提供的数据可完成 图3、4
 
 **图片**：**该图片为交互式表格**
 
-![image-20241102230346064](/Users/eddieho/Library/Application Support/typora-user-images/image-20241102230346064.png)
+![image-20241102230346064](image/pic5.png)
