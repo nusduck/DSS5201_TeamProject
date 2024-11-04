@@ -42,7 +42,7 @@ data world 中提供的数据可完成 图3、4
 
 - 选择legend中对应的平台实现该平台保留，其他平台全隐藏的交互效果
 
-- 增加视频平台图标？
+- 增加视频平台图标在legend后面？ [icon链接](https://www.flaticon.com/search?word=whatsapp)
 
 - ？？
 
