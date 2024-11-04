@@ -25,52 +25,33 @@ data world 中提供的数据可完成 图3、4
 ### 待调整：
 
 - ~~x axis 日期显示为只存在于数据year column中的日起~~
+
 - ~~legend 边框去除~~
+
 - ~~辅助线的文字说明位置调整~~
+
 - ~~标题位置调整~~
 
-## 图二
+- 字体调整
 
-**链接**：`https://www.pewresearch.org/internet/2024/01/31/americans-social-media-use/`
+- 颜色调整
 
-**数据源**: `data/Social_Media_Usage_pivoted.xlsx`
+- 数据点交互效果，点击对应数据点显示数据
 
-**图片**:
+### 提升：
 
-![image-20241102224715920](image/pic2.png)
+- 选择legend中对应的平台实现该平台保留，其他平台全隐藏的交互效果
 
-### 目前完成效果： 无
+- 增加视频平台图标？
 
-## 图三
+- ？？
 
-链接：`https://www.pewresearch.org/internet/2024/01/31/americans-social-media-use/`
+### 交付：
 
-数据源: `data/Social_Media_Usage_pivoted.xlsx`
+- Video/slide
+- Code (整合)
 
-**图片:**
 
-![image-20241102224740972](image/pic3.png)
 
-### 目前完成效果 无
 
-## 图四
 
-**链接：**`https://www.pewresearch.org/internet/2024/01/31/americans-social-media-use/`
-
-**数据源:** `data/Social_Media_Usage_pivoted.xlsx`
-
-**图片:**
-
-![image-20241102224758579](image/pic4.png)
-
-### 目前完成效果 无
-
-## 图五：
-
-**链接**：`https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform`
-
-**数据源**: `data/which_social_media_platforms_are_most_popular_data_2024-01-31.csv`
-
-**图片**：**该图片为交互式表格**
-
-![image-20241102230346064](image/pic5.png)
