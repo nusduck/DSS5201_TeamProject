@@ -25,7 +25,7 @@ for i in data2.columns[1:]:
 # 获取年份列表
 x_l = data2['Year'].dt.to_period('Y').dt.start_time.unique()
 x_ll = data2['Year'].dt.to_period('Y').dt.start_time.unique().strftime('%Y')
-
+x_lll = ["2014","2016","2018","2020","2023"]
 def main():
     # 标题居中
 
@@ -70,8 +70,8 @@ def main():
         xaxis=dict(
             tickformat='%Y',
             # dtick='M12',  # 每年一个刻度
-            tickvals=x_ll,
-            ticktext=x_ll,
+            tickvals=x_lll,
+            ticktext=x_lll,
             tickfont=dict(family='Times New Roman')
         ),
         yaxis=dict(
